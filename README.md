@@ -1,8 +1,8 @@
-# Password Generator (Shell Script)
+Générateur de mots de passe (Script Shell)
 
-A simple Bash script that generates 5 random passwords of user-defined length using `openssl`.
+Un script Bash simple qui génère 5 mots de passe aléatoires de longueur définie par l'utilisateur à l'aide de openssl.
 
-## How to Run
+Exécution
 
 ```bash
 chmod +x password_generator.sh
